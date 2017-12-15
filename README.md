@@ -1,2 +1,1 @@
-# resynthesizer_installer
-Installer fo Resynthesizer plugin in GIMP 2.8
+Installer for Resynthesizer 1.0 plugin in GIMP 2.8
